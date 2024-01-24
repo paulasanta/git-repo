@@ -1,0 +1,5 @@
+ejemplo de como modificar 
+1. add ~ git add filename.txt
+2. git status
+3. git commit -m "commentario filename.txt"
+4. git status
